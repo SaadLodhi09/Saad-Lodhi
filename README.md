@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Pitch Deck and visual brand identities, vector assets, and modern Next.js web interfaces.   <br>👯I’m looking to collaborate on creative social media campaigns, pitch deck,  frontend projects, design systems, and AI-driven motion graphics.   <br>🤝 I’m looking for help with mastering creative designs, headless CMS integrations and advanced full-stack state architecture.   <br>🌱 I’m currently learning deep Next.js performance patterns, Deno, and AI-assisted dev workflows.   <br>💬 Ask me about vector design in Illustrator, DaVinci Resolve color grading, or vibe coding in VS Code.   <br>⚡ Fun fact I treat Designing like a vector canvas, and I can execute a perfect Electric Wind God Fist in Tekken.  
 
 
